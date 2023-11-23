@@ -1,0 +1,9 @@
+2023-10-27 11:25:30.992 [main] INFO  org.example.Main - [MAIN] [START] 
+2023-10-27 11:28:51.424 [main] INFO  org.example.Main - [MAIN] [START] 
+2023-10-27 11:28:58.471 [main] INFO  org.example.Main - [SQUARE ROOT OPERATION] [START] 52.0
+2023-10-27 11:28:58.471 [main] INFO  org.example.Main - [SQUARE ROOT OPERATION] [END] 7.211102550927978
+2023-10-27 11:29:12.128 [main] INFO  org.example.Main - [MAIN] [START] 
+2023-10-27 11:29:15.369 [main] INFO  org.example.Main - [SQUARE ROOT OPERATION] [START] 25.0
+2023-10-27 11:29:15.369 [main] INFO  org.example.Main - [SQUARE ROOT OPERATION] [END] 5.0
+2023-10-27 11:29:17.762 [main] INFO  org.example.Main - [FACTORIAL OPERATION] [START] 5
+2023-10-27 11:29:17.763 [main] INFO  org.example.Main - [FACTORIAL OPERATION] [END] 120
